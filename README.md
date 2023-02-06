@@ -3,6 +3,10 @@ Matlab Simulink Block-set for Field-oriented control structure for a permanent m
 
 DISCLAMER: This repository is still work in progress 
 
+for more info:
+
+blog:https://nachiboin.blogspot.com/2023/02/oriented-control-foc-for-permanent.html
+
 a)	PMSM(Permanent magnet synchronous motor) Model
 
 PMSM Simulink Model
